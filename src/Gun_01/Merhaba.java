@@ -5,5 +5,7 @@ public class Merhaba {
 
 
         System.out.println("Merhaba 1");
+
+        System.out.println("Merhaba 2");
     }
 }
